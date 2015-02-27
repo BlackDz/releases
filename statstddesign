@@ -123,7 +123,7 @@ PlayerTextDrawFont(playerid, TDEditor_PTD[playerid][8], 1);
 PlayerTextDrawSetProportional(playerid, TDEditor_PTD[playerid][8], 1);
 PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][8], 0);
 
-TDEditor_PTD[playerid][9] = CreatePlayerTextDraw(playerid, 132.000000, 242.266662, "Option 2 : Valeur");
+TDEditor_PTD[playerid][9] = CreatePlayerTextDraw(playerid, 133.500000, 242.266662, "Option 2 : Valeur");
 PlayerTextDrawLetterSize(playerid, TDEditor_PTD[playerid][9], 0.400000, 1.600000);
 PlayerTextDrawAlignment(playerid, TDEditor_PTD[playerid][9], 1);
 PlayerTextDrawColor(playerid, TDEditor_PTD[playerid][9], -1);
@@ -134,7 +134,7 @@ PlayerTextDrawFont(playerid, TDEditor_PTD[playerid][9], 1);
 PlayerTextDrawSetProportional(playerid, TDEditor_PTD[playerid][9], 1);
 PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][9], 0);
 
-TDEditor_PTD[playerid][10] = CreatePlayerTextDraw(playerid, 131.000000, 277.733367, "Option 3 : Valeur");
+TDEditor_PTD[playerid][10] = CreatePlayerTextDraw(playerid, 133.500000, 277.733367, "Option 3 : Valeur");
 PlayerTextDrawLetterSize(playerid, TDEditor_PTD[playerid][10], 0.400000, 1.600000);
 PlayerTextDrawAlignment(playerid, TDEditor_PTD[playerid][10], 1);
 PlayerTextDrawColor(playerid, TDEditor_PTD[playerid][10], -1);
@@ -145,7 +145,7 @@ PlayerTextDrawFont(playerid, TDEditor_PTD[playerid][10], 1);
 PlayerTextDrawSetProportional(playerid, TDEditor_PTD[playerid][10], 1);
 PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][10], 0);
 
-TDEditor_PTD[playerid][11] = CreatePlayerTextDraw(playerid, 131.500000, 313.200073, "Option 4 : Valeur");
+TDEditor_PTD[playerid][11] = CreatePlayerTextDraw(playerid, 133.500000, 313.200073, "Option 4 : Valeur");
 PlayerTextDrawLetterSize(playerid, TDEditor_PTD[playerid][11], 0.400000, 1.600000);
 PlayerTextDrawAlignment(playerid, TDEditor_PTD[playerid][11], 1);
 PlayerTextDrawColor(playerid, TDEditor_PTD[playerid][11], -1);
@@ -203,7 +203,7 @@ PlayerTextDrawFont(playerid, TDEditor_PTD[playerid][15], 1);
 PlayerTextDrawSetProportional(playerid, TDEditor_PTD[playerid][15], 1);
 PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][15], 0);
 
-TDEditor_PTD[playerid][16] = CreatePlayerTextDraw(playerid, 322.500000, 311.333374, "Option 8 : Valeur");
+TDEditor_PTD[playerid][16] = CreatePlayerTextDraw(playerid, 321.000000, 311.333374, "Option 8 : Valeur");
 PlayerTextDrawLetterSize(playerid, TDEditor_PTD[playerid][16], 0.400000, 1.600000);
 PlayerTextDrawAlignment(playerid, TDEditor_PTD[playerid][16], 1);
 PlayerTextDrawColor(playerid, TDEditor_PTD[playerid][16], -1);
